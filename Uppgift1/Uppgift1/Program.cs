@@ -6,6 +6,7 @@ namespace Vigor
     {
         static void Main(string[] args)
         {
+            int x = 10;
             Console.WriteLine("Mina uppgifter:");
 
             //Uppgift A - Happy path
@@ -15,7 +16,7 @@ namespace Vigor
 
             //en array är positionsbaserad
             //dvs man räknar med start från (0) [0, 1, 2]
-
+            
             //ställ frågor ett antal gånger
 
             for (int i = 0; i < food.Length; i++)
