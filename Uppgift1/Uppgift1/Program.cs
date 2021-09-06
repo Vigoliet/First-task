@@ -7,6 +7,7 @@ namespace Vigor
         static void Main(string[] args)
         {
             int x = 10;
+            int y = 20;
             Console.WriteLine("Mina uppgifter:");
 
             //Uppgift A - Happy path
